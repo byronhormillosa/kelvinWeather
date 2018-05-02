@@ -8,4 +8,4 @@ console.log(`The temperature is ${farenheit} degrees Farenheit.`);
 
 let Newton = celsius * (33/100);
 Newton = Math.floor(Newton);
-console.log(`${Newton} Newton scale`)
+console.log(`${Newton} Newton scale`) //extra work
