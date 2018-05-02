@@ -1,0 +1,11 @@
+/* CodeAcademy free form project for Javascript: Variables */
+
+const kelvin = 294; //constant value for kelvin
+const celsius = kelvin - 273; //celsius conversion
+let farenheit = celsius * (9/5) + 32; //farenheit conversion
+farenheit = Math.floor(farenheit); //method from math library to round down farenheit decimal result
+console.log(`The temperature is ${farenheit} degrees Farenheit.`);
+
+let Newton = celsius * (33/100);
+Newton = Math.floor(Newton);
+console.log(`${Newton} Newton scale`)
