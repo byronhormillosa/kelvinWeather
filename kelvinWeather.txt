@@ -1,4 +1,4 @@
-/* CodeAcademy free form project for Javascript: Variables */
+/* CodeAcademy free form project for Javascript: Variables, converts kelvin units to celsius, farenheit and newtons */
 
 const kelvin = 294; //constant value for kelvin
 const celsius = kelvin - 273; //celsius conversion
